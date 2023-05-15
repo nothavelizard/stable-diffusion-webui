@@ -33,3 +33,10 @@ notification.mp3
 /test/stdout.txt
 /test/stderr.txt
 /cache.json
+webui-user.sh
+webui-user.bat
+scripts/loopback_scaler.py
+scripts/prompt_gallery.py
+xor_pass.txt
+webui-user.sh
+auto-sd-paint-ext-backend.yaml
