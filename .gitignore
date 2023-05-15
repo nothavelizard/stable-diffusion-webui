@@ -32,6 +32,7 @@ notification.mp3
 /extensions
 /test/stdout.txt
 /test/stderr.txt
+<<<<<<< HEAD
 /cache.json
 webui-user.sh
 webui-user.bat
@@ -40,3 +41,7 @@ scripts/prompt_gallery.py
 xor_pass.txt
 webui-user.sh
 auto-sd-paint-ext-backend.yaml
+=======
+/cache.json*
+/config_states/
+>>>>>>> 89f9faa63388756314e8a1d96cf86bf5e0663045
