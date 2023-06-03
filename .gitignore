@@ -44,4 +44,10 @@ auto-sd-paint-ext-backend.yaml
 =======
 /cache.json*
 /config_states/
+<<<<<<< HEAD
 >>>>>>> 89f9faa63388756314e8a1d96cf86bf5e0663045
+=======
+/node_modules
+/package-lock.json
+/.coverage*
+>>>>>>> b6af0a3809ea869fb180633f9affcae4b199ffcf
