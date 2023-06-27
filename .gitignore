@@ -51,3 +51,5 @@ auto-sd-paint-ext-backend.yaml
 /package-lock.json
 /.coverage*
 >>>>>>> b6af0a3809ea869fb180633f9affcae4b199ffcf
+input_video.mp4
+webui-user.bat
