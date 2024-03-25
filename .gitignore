@@ -50,6 +50,10 @@ auto-sd-paint-ext-backend.yaml
 /node_modules
 /package-lock.json
 /.coverage*
+<<<<<<< HEAD
 >>>>>>> b6af0a3809ea869fb180633f9affcae4b199ffcf
 input_video.mp4
 webui-user.bat
+=======
+/test/test_outputs
+>>>>>>> bef51aed032c0aaa5cfd80445bc4cf0d85b408b5
